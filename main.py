@@ -15,3 +15,8 @@ with col2:
     and I would like to develop as a Python Developer.
     """
     st.info(content)
+
+content2 = """
+Below you can find some of the apps I have build in python. Feel free to contact me!
+"""
+st.write(content2)
